@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "",
   "scripts": {
+    "build": "webpack build",
     "start": "webpack serve"
   },
   "author": "Ryo Kuroyanagi",
